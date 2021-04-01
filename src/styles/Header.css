@@ -1,0 +1,24 @@
+.logo{
+    color: red;
+    border-radius: 50px;
+    width: 48px;
+    height: 45px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 21px;
+}
+.account{
+    color:white;
+    border:2px solid white;
+    padding:4px 4px 4px 4px;
+}
+
+.logout{
+    color: white;
+    padding:12px 4px 4px 4px;
+}
+
+.login{
+    color:white;
+    
+}
